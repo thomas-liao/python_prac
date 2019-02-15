@@ -1,0 +1,3 @@
+sudo fuser -v /dev/nvidia*
+# check what is using your GPU
+then sudo kill -9 PID

@@ -1,0 +1,8 @@
+1. ord() instead of ord[]
+
+2.
+Here is the summary for in:
+list - Average: O(n)
+set/dict - Average: O(1), Worst: O(n)
+
+3.

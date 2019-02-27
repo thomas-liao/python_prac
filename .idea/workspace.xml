@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="13793d15-c4ce-4b5a-9a1c-f5c7bf211a62" name="Default" comment="" />
+    <list default="true" id="13793d15-c4ce-4b5a-9a1c-f5c7bf211a62" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/VIM/operations.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,7 +17,7 @@
     <SUITE FILE_PATH="coverage/dark_magic$multiprocessing_lock_prac.coverage" NAME="multiprocessing_lock_prac Coverage Results" MODIFIED="1535745146239" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MultiProcessing_MultiThreading" />
     <SUITE FILE_PATH="coverage/dark_magic$cv2_prac1.coverage" NAME="cv2_prac1 Coverage Results" MODIFIED="1539796544876" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CV2" />
     <SUITE FILE_PATH="coverage/dark_magic$roc_curve_prac.coverage" NAME="roc_curve_prac Coverage Results" MODIFIED="1540264007380" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EvaluationMetrics" />
-    <SUITE FILE_PATH="coverage/dark_magic$temp.coverage" NAME="temp Coverage Results" MODIFIED="1544314839219" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/dark_magic$temp.coverage" NAME="temp Coverage Results" MODIFIED="1550690188255" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/VIM" />
     <SUITE FILE_PATH="coverage/dark_magic$logistic_regression.coverage" NAME="logistic_regression Coverage Results" MODIFIED="1537889094607" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DL_HomeWork/DL_HW1" />
     <SUITE FILE_PATH="coverage/python_practice$counsel_extract_loss_val_log_hg_8gpu_server_23d.coverage" NAME="counsel_extract_loss_val_log_hg_8gpu_server_23d Coverage Results" MODIFIED="1532720318564" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/IO_Practice/CSV" />
     <SUITE FILE_PATH="coverage/dark_magic$perceptron.coverage" NAME="perceptron Coverage Results" MODIFIED="1537888697490" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DL_HomeWork/DL_HW1" />
@@ -30,6 +33,7 @@
     <SUITE FILE_PATH="coverage/dark_magic$linear_regression.coverage" NAME="linear_regression Coverage Results" MODIFIED="1537889371851" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DL_HomeWork/DL_HW1" />
     <SUITE FILE_PATH="coverage/dark_magic$tttt.coverage" NAME="tttt Coverage Results" MODIFIED="1541544140870" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LintC" />
     <SUITE FILE_PATH="coverage/dark_magic$multiprocessing_prac.coverage" NAME="multiprocessing_prac Coverage Results" MODIFIED="1540169240872" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MultiProcessing_MultiThreading" />
+    <SUITE FILE_PATH="coverage/dark_magic$hg_23d_train_fixed_hierarchical_structure.coverage" NAME="hg_23d_train_fixed_hierarchical_structure Coverage Results" MODIFIED="1550690132488" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/VIM" />
     <SUITE FILE_PATH="coverage/dark_magic$basic_python_operation.coverage" NAME="basic_python_operation Coverage Results" MODIFIED="1541200270316" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LintC" />
     <SUITE FILE_PATH="coverage/dark_magic$half_life_cumulation.coverage" NAME="half_life_cumulation Coverage Results" MODIFIED="1549929956995" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/dark_magic$h5py_prac.coverage" NAME="h5py_prac Coverage Results" MODIFIED="1540189481873" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HDF5" />
@@ -51,6 +55,7 @@
     <SUITE FILE_PATH="coverage/dark_magic$582_wordbreak_ii.coverage" NAME="582_wordbreak_ii Coverage Results" MODIFIED="1541120323593" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LintC/DFS" />
     <SUITE FILE_PATH="coverage/dark_magic$hier_loss.coverage" NAME="hier_loss Coverage Results" MODIFIED="1538240367722" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TENSORFLOW" />
     <SUITE FILE_PATH="coverage/dark_magic$prac_Axes3d.coverage" NAME="prac_Axes3d Coverage Results" MODIFIED="1537304975779" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Matplotlib" />
+    <SUITE FILE_PATH="coverage/dark_magic$tttttest.coverage" NAME="tttttest Coverage Results" MODIFIED="1551232160188" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_practice$test.coverage" NAME="test Coverage Results" MODIFIED="1531612071976" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/IO_Practice/CSV" />
     <SUITE FILE_PATH="coverage/python_practice$temp.coverage" NAME="temp Coverage Results" MODIFIED="1531643888784" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/IO_Practice/LOG" />
     <SUITE FILE_PATH="coverage/dark_magic$cv2_heatmap.coverage" NAME="cv2_heatmap Coverage Results" MODIFIED="1539832547110" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CV2" />
@@ -64,6 +69,7 @@
     <SUITE FILE_PATH="coverage/dark_magic$tensorflow_prac.coverage" NAME="tensorflow_prac Coverage Results" MODIFIED="1537046757767" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TENSORFLOW" />
     <SUITE FILE_PATH="coverage/dark_magic$lab5.coverage" NAME="lab5 Coverage Results" MODIFIED="1538525741638" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DL_HomeWork" />
     <SUITE FILE_PATH="coverage/dark_magic$ttestt.coverage" NAME="ttestt Coverage Results" MODIFIED="1549685744853" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/dark_magic$hierarchical_loss_rigid.coverage" NAME="hierarchical_loss_rigid Coverage Results" MODIFIED="1550692829863" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/VIM" />
     <SUITE FILE_PATH="coverage/dark_magic$online_resume_img_modification.coverage" NAME="online_resume_img_modification Coverage Results" MODIFIED="1549063995080" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MISCELANEOUS" />
     <SUITE FILE_PATH="coverage/dark_magic$test__1_.coverage" NAME="test (1) Coverage Results" MODIFIED="1549058470292" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MISCELANEOUS/vehicle" />
     <SUITE FILE_PATH="coverage/dark_magic$sort.coverage" NAME="sort Coverage Results" MODIFIED="1540949908663" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LintC/TwoPointerAlgorithm" />
@@ -87,54 +93,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="online_resume_img_modification.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MISCELANEOUS/online_resume_img_modification.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="30" column="26" selection-start-line="30" selection-start-column="26" selection-end-line="30" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="compare_two_images.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/UNCATEGORIZED/compare_two_images.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="kitti3d_prep.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CV_Dataset_Proprocessing/Kitti3D/kitti3d_prep.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
-              <caret line="35" selection-start-line="35" selection-end-line="35" />
-              <folding>
-                <element signature="e#0#21#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ttestt.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ttestt.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="348">
-              <caret line="29" selection-start-line="29" selection-end-line="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="common_ops.txt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/NVIDIA_COMMAND/common_ops.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="3" />
+            <state relative-caret-position="36">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="half_life_cumulation.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="half_life_cumulation.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/half_life_cumulation.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
+            <state relative-caret-position="288">
               <caret line="25" column="11" selection-start-line="25" selection-start-column="11" selection-end-line="25" selection-end-column="11" />
               <folding>
                 <element signature="e#0#31#0" expanded="true" />
@@ -143,28 +114,72 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="test.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MISCELANEOUS/vehicle/test.py">
+      <file leaf-file-name="tesasdft.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tesasdft.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="19" selection-start-line="19" selection-end-line="19" />
+            <state relative-caret-position="192">
+              <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="temp_profile.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MISCELANEOUS/vehicle/temp_profile.png">
-          <provider selected="true" editor-type-id="images" />
+      <file leaf-file-name="operations.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/VIM/operations.txt">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file leaf-file-name="img1.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MISCELANEOUS/vehicle/img1.png">
-          <provider selected="true" editor-type-id="images" />
+      <file leaf-file-name="a.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/VIM/a.py">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file leaf-file-name="img2.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MISCELANEOUS/vehicle/img2.png">
-          <provider selected="true" editor-type-id="images" />
+      <file leaf-file-name="hierarchical_loss_rigid_v2.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/VIM/hierarchical_loss_rigid_v2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="20" column="41" selection-start-line="20" selection-start-column="41" selection-end-line="20" selection-end-column="41" />
+              <folding>
+                <element signature="e#30#53#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="tttttest.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/tttttest.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="6" selection-start-column="6" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor />
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="hg_23d_train_fixed_hierarchical_structure.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/VIM/hg_23d_train_fixed_hierarchical_structure.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="53" column="56" selection-start-line="46" selection-start-column="4" selection-end-line="53" selection-end-column="56" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="temp.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/VIM/temp.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="24">
+              <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -225,15 +240,12 @@
       <dir>$PROJECT_DIR$/DL_HomeWork/DL_HW2_writing</dir>
     </dirStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/LintC/1.Hack the Alg Interview/longestPalindrome.py" />
-        <option value="$PROJECT_DIR$/LintC/1.Hack the Alg Interview/415_valid_palindrome.py" />
-        <option value="$PROJECT_DIR$/LintC/1.Hack the Alg Interview/627_longestPalindrome.py" />
-        <option value="$PROJECT_DIR$/LintC/1.Hack the Alg Interview/428_pow(x.n).py" />
-        <option value="$PROJECT_DIR$/LintC/BinarySearch and LogN algorithm/two_sum_series.py" />
-        <option value="$PROJECT_DIR$/LintC/BinarySearch and LogN algorithm/remove_zeros.py" />
         <option value="$PROJECT_DIR$/LintC/TwoPointerAlgorithm/521_remove_duplicate.py" />
         <option value="$PROJECT_DIR$/PICKLE/pickle_prac.py" />
         <option value="$PROJECT_DIR$/LintC/TwoPointerAlgorithm/quickSort.py" />
@@ -279,6 +291,12 @@
         <option value="$PROJECT_DIR$/ttestt.py" />
         <option value="$PROJECT_DIR$/NVIDIA_COMMAND/common_ops.txt" />
         <option value="$PROJECT_DIR$/half_life_cumulation.py" />
+        <option value="$PROJECT_DIR$/tesasdft.py" />
+        <option value="$PROJECT_DIR$/VIM/a.py" />
+        <option value="$PROJECT_DIR$/VIM/temp.py" />
+        <option value="$PROJECT_DIR$/VIM/hg_23d_train_fixed_hierarchical_structure.py" />
+        <option value="$PROJECT_DIR$/VIM/hierarchical_loss_rigid.py" />
+        <option value="$PROJECT_DIR$/tttttest.py" />
       </list>
     </option>
   </component>
@@ -292,10 +310,11 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="y" value="23" />
+    <option name="y" value="27" />
     <option name="width" value="1440" />
-    <option name="height" value="838" />
+    <option name="height" value="834" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -308,6 +327,11 @@
             <path>
               <item name="dark_magic" type="b2602c69:ProjectViewProjectNode" />
               <item name="python_prac" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dark_magic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_prac" type="462c0819:PsiDirectoryNode" />
+              <item name="NVIDIA_COMMAND" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -350,7 +374,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.half_life_cumulation">
+  <component name="RunManager" selected="Python.tttttest">
     <configuration name="half_life_cumulation" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_prac" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -370,7 +394,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="kitti3d_prep" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="hg_23d_train_fixed_hierarchical_structure" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_prac" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -378,18 +402,18 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CV_Dataset_Proprocessing/Kitti3D" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/VIM" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CV_Dataset_Proprocessing/Kitti3D/kitti3d_prep.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/VIM/hg_23d_train_fixed_hierarchical_structure.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="online_resume_img_modification" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="hierarchical_loss_rigid" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_prac" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -397,18 +421,18 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MISCELANEOUS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/VIM" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MISCELANEOUS/online_resume_img_modification.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/VIM/hierarchical_loss_rigid_v2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="test (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="temp" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_prac" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -416,18 +440,18 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MISCELANEOUS/vehicle" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/VIM" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MISCELANEOUS/vehicle/test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/VIM/temp.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="ttestt" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="tttttest" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_prac" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -440,26 +464,26 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ttestt.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tttttest.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.kitti3d_prep" />
-      <item itemvalue="Python.online_resume_img_modification" />
-      <item itemvalue="Python.test (1)" />
-      <item itemvalue="Python.ttestt" />
       <item itemvalue="Python.half_life_cumulation" />
+      <item itemvalue="Python.hg_23d_train_fixed_hierarchical_structure" />
+      <item itemvalue="Python.temp" />
+      <item itemvalue="Python.hierarchical_loss_rigid" />
+      <item itemvalue="Python.tttttest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.tttttest" />
+        <item itemvalue="Python.hierarchical_loss_rigid" />
+        <item itemvalue="Python.temp" />
+        <item itemvalue="Python.hg_23d_train_fixed_hierarchical_structure" />
         <item itemvalue="Python.half_life_cumulation" />
-        <item itemvalue="Python.ttestt" />
-        <item itemvalue="Python.online_resume_img_modification" />
-        <item itemvalue="Python.test (1)" />
-        <item itemvalue="Python.kitti3d_prep" />
       </list>
     </recent_temporary>
   </component>
@@ -509,22 +533,23 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="836" extended-state="6" />
+    <frame x="0" y="23" width="1440" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="12" />
       <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="2" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="1" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="1" />
       <window_info anchor="bottom" id="Python Console" order="5" />
-      <window_info anchor="bottom" id="Run" order="8" weight="0.32793522" />
-      <window_info anchor="bottom" id="Terminal" order="4" weight="0.38186812" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.38054362" />
+      <window_info anchor="bottom" id="Run" order="8" weight="0.32658568" />
+      <window_info anchor="bottom" id="Terminal" order="4" weight="0.38075882" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.20386267" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="1" weight="0.3297568" />
-      <window_info anchor="right" id="SciView" order="0" visible="true" weight="0.28683835" />
+      <window_info anchor="right" id="SciView" order="0" visible="true" weight="0.16595136" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="9" weight="0.4048583" />
+      <window_info anchor="bottom" id="Debug" order="9" weight="0.35501355" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="2" type="SLIDING" weight="0.4" />
@@ -646,7 +671,7 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="284" />
+      <option name="time" value="286" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="PythonConfigurationType">
@@ -678,37 +703,13 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/UNCATEGORIZED/cats/temp2.py" />
-    <entry file="file://$PROJECT_DIR$/UNCATEGORIZED/cats/cat_idx_120226.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UNCATEGORIZED/14.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UNCATEGORIZED/2.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UNCATEGORIZED/11.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UNCATEGORIZED/target_cats/0.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UNCATEGORIZED/target_cats/64.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UNCATEGORIZED/target_cats/83.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/UNCATEGORIZED/1544313067139.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/UNCATEGORIZED/test_segmentation_blending.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/new_img.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/new_img.jpg" />
     <entry file="file://$PROJECT_DIR$/UNCATEGORIZED/temp.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="192">
@@ -716,9 +717,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/new_img2.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/new_img2.jpg" />
     <entry file="file://$PROJECT_DIR$/temp.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="48">
@@ -892,20 +891,72 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/NVIDIA_COMMAND/common_ops.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/half_life_cumulation.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
+        <state relative-caret-position="288">
           <caret line="25" column="11" selection-start-line="25" selection-start-column="11" selection-end-line="25" selection-end-column="11" />
           <folding>
             <element signature="e#0#31#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VIM/temp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VIM/a.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VIM/operations.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tesasdft.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VIM/hg_23d_train_fixed_hierarchical_structure.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="53" column="56" selection-start-line="46" selection-start-column="4" selection-end-line="53" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VIM/hierarchical_loss_rigid_v2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="20" column="41" selection-start-line="20" selection-start-column="41" selection-end-line="20" selection-end-column="41" />
+          <folding>
+            <element signature="e#30#53#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NVIDIA_COMMAND/common_ops.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tttttest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="6" selection-start-column="6" selection-end-column="6" />
         </state>
       </provider>
     </entry>
